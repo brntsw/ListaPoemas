@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListaPoemas</string>
+    <string name="aguarde">Aguarde</string>
+    <string name="carregando_poemas">Carregando poemas&#8230;</string>
+
+    <!-- Status -->
+    <string name="erro">Erro</string>
+    <string name="nao_encontrado">Não encontrado</string>
+    <string name="nao_disponivel">Não disponível</string>
+
+    <string name="erro_tente_novamente">Um erro ocorreu. Tente novamente mais tarde</string>
+    <string name="servico_nao_disponivel">O serviço não está disponível no momento</string>
+</resources>
